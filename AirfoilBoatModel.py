@@ -2,7 +2,7 @@
 """
 Created on Tue Mar  9 11:05:24 2021
 
-@author: Павел Ермаков / Дмитрий Гиренко
+@author: Павел Ермаков
 """
 
 from ABCMathModel import ABCMathModel
