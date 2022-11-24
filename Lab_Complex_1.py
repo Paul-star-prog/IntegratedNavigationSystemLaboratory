@@ -2,7 +2,7 @@
 """
 Created on Fri Mar  5 13:53:46 2021
 
-@author: Павел Ермаков / Дмитрий Гиренко
+@author: Павел Ермаков
 """
 import numpy as np
 import matplotlib.pyplot as plt
