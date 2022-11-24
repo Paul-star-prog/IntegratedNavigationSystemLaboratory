@@ -2,7 +2,7 @@
 """
 Created on Mon Mar  8 17:32:59 2021
 
-@author: Павел Ермаков / Дмитрий Гиренко
+@author: Павел Ермаков
 """
 
 from abc import ABCMeta, abstractmethod
